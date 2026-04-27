@@ -1,274 +1,336 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════╗
-║         NIKHIL SHARMA — GitHub Profile README                   ║
-║         Paste into: github.com/Nikhil06032004/Nikhil06032004    ║
-║         Customizable sections marked with [EDIT]                ║
+║  NIKHIL SHARMA — GitHub Profile README v2                       ║
+║  Paste into: github.com/Nikhil06032004/Nikhil06032004           ║
+║  [EDIT] markers = sections to personalize                       ║
 ╚══════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ═══════════════════ HERO HEADER ═══════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━  HERO  ━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nikhil%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20edge%20of%20AI%20%26%20Software&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-
-<!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+AI+Builder;RAG+%7C+ML+%7C+Cybersecurity+AI;React+%7C+TypeScript+%7C+Python+%7C+FastAPI;EAT.+SLEEP.+CONQUER.+REPEAT.)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Nikhil%20Sharma&fontSize=56&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Builder%20%C2%B7%20Problem%20Solver&descSize=17&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%" />
 
 <br/>
 
-<!-- Social Badges — [EDIT] your LinkedIn/email/portfolio -->
-<a href="https://www.linkedin.com/in/nikhil-sharma-149211286" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3800&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI+that+ships+to+production.;RAG+%C2%B7+ML+%C2%B7+Cybersecurity+AI+%C2%B7+Full-Stack;From+model+training+to+polished+UIs.;EAT.+SLEEP.+CONQUER.+REPEAT.)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Social row — [EDIT] replace your@email.com -->
+<a href="https://www.linkedin.com/in/nikhil-sharma-149211286">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
-<a href="mailto:your@email.com"><!-- [EDIT] your email -->
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+&ensp;
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
+&ensp;
 <a href="https://github.com/Nikhil06032004">
-  <img src="https://img.shields.io/badge/GitHub-Nikhil06032004-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
 </div>
 
-<!-- ═══════════════════ DIVIDER ═══════════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ━━━━━━━━━━━━━━━━━━━━  ABOUT  ━━━━━━━━━━━━━━━━━━━━ -->
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20&height=2&section=header" width="100%"/>
 
-## `$ whoami`
+<br/>
 
 ```typescript
-const nikhil: Engineer = {
-  name:       "Nikhil Sharma",
-  focus:      ["AI/ML Systems", "Full-Stack Engineering", "Cybersecurity AI"],
-  stack:      ["Python", "TypeScript", "React", "FastAPI", "LangChain"],
-  building:   "Production AI that solves real-world problems",
-  superpower: "Bridging ML research with clean, deployable software",
-  mantra:     "EAT. SLEEP. CONQUER. REPEAT.",
-};
+const nikhil = {
+  role      : "AI Engineer & Full-Stack Developer",
+  domains   : ["RAG Systems", "ML Pipelines", "Cybersecurity AI", "Developer Tools"],
+  stack     : ["Python", "TypeScript", "React", "FastAPI", "LangChain", "XGBoost"],
+  approach  : "Ship production AI — not just notebooks.",
+  mantra    : "EAT · SLEEP · CONQUER · REPEAT",
+} satisfies Engineer;
 ```
 
-I'm a software engineer who builds **AI-powered products from scratch** — from training models and designing RAG pipelines to shipping polished React frontends. My projects span healthcare AI, cybersecurity threat detection, logistics ML, and intelligent developer tools.
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I build **end-to-end AI systems** — from embedding pipelines and custom ML models to polished React dashboards. My work spans healthcare, cybersecurity, logistics, and developer tooling. I care about clean architecture, fast inference, and software that actually ships.
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<br/>
 
-## `$ ls ./tech-stack`
+<!-- ━━━━━━━━━━━━━━━━━━━━  TECH STACK  ━━━━━━━━━━━━━━━━━━━━ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20&height=2&section=header" width="100%"/>
+
+<br/>
 
 <div align="center">
 
-**AI & Machine Learning**
+### ⬡ &nbsp; Tech Arsenal &nbsp; ⬡
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-005571?style=flat-square&logo=meta&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189734?style=flat-square&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<br/>
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**Tools & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=flat-square&logo=browserstack&logoColor=white)
+| Layer | Technologies |
+|-------|-------------|
+| **AI / ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189734?style=flat-square&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-005571?style=flat-square&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Infra / Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
-
-## `$ cat ./projects/featured.json`
-
-<!-- Project 1 -->
-<details open>
-<summary><b>🔒 AI Cyber Threat Detection Platform</b> &nbsp;|&nbsp; <code>TypeScript · FastAPI · XGBoost · React</code></summary>
 <br/>
 
-> A production-grade SIEM-style platform that ingests Windows/Linux system logs and network flows, runs a custom-trained XGBoost classifier for real-time anomaly detection, and surfaces threats through a live React dashboard with automated remediation workflows.
+<!-- ━━━━━━━━━━━━━━━━━━━━  PROJECTS  ━━━━━━━━━━━━━━━━━━━━ -->
 
-**Why it matters:** Replaces manual SOC log reviews with an ML pipeline that classifies threats in milliseconds — fully self-hosted with no third-party data exposure.
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20&height=2&section=header" width="100%"/>
 
-**Architecture highlights:** Full-stack separation (React + Vite frontend / FastAPI backend), Dockerized deployment, Scikit-learn ML engine with Joblib model persistence, REST API with high-concurrency Uvicorn server.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikhil06032004/AI-Log-Analysis-for-Cyber-Attack-Detection)
-
-</details>
-
----
-
-<!-- Project 2 -->
-<details open>
-<summary><b>🏥 Healthcare RAG Assistant</b> &nbsp;|&nbsp; <code>Python · LangChain · FAISS · Groq · Streamlit</code></summary>
 <br/>
-
-> An end-to-end Retrieval-Augmented Generation (RAG) system for medical information retrieval. Ingests healthcare PDFs into a FAISS vector store, performs semantic search, and generates structured, source-cited answers via LLaMA 3.1 on Groq — with both a Streamlit web UI and a developer CLI.
-
-**Why it matters:** Demonstrates deep LLM engineering skills — document ingestion, embedding pipelines, vector search, prompt engineering, and hallucination mitigation via source references.
-
-**Stack depth:** LangChain chains + memory, HuggingFace embeddings, FAISS semantic search, Groq ultra-fast inference, modular production-ready design.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikhil06032004/Medical-Query-Chatbot)
-
-</details>
-
----
-
-<!-- Project 3 -->
-<details open>
-<summary><b>📄 AI Resume Analyzer Dashboard</b> &nbsp;|&nbsp; <code>React · TypeScript · Vite · Tailwind · Puter.js</code></summary>
-<br/>
-
-> An AI-powered resume analysis tool with ATS scoring, keyword gap detection, skill matching against job descriptions, cover letter generation, and interview preparation — all wrapped in a polished React + Tailwind UI.
-
-**Why it matters:** Combines NLP reasoning with a recruiter-grade UX. Showcases advanced TypeScript frontend engineering alongside practical AI product thinking.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikhil06032004/Resume-Analyzer-Dashboard)
-
-</details>
-
----
-
-<!-- Project 4 -->
-<details>
-<summary><b>🚚 Road Freight Tariff Rate Predictor</b> &nbsp;|&nbsp; <code>Python · Regression ML · Flask · Jupyter</code></summary>
-<br/>
-
-> ML regression model that predicts road freight tariff rates with high accuracy, deployed as a Flask REST API with a browser-based web interface — bridging logistics domain knowledge with applied machine learning.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikhil06032004/Tariff_Rate_Prediction)
-
-</details>
-
----
-
-<!-- Project 5 -->
-<details>
-<summary><b>🌐 El País Selenium Automation Framework</b> &nbsp;|&nbsp; <code>Python · Selenium · BrowserStack</code></summary>
-<br/>
-
-> Modular web automation framework that scrapes El País Opinion articles, auto-translates titles, downloads images, and runs parallel cross-browser tests across BrowserStack — demonstrating test engineering discipline and CI-ready design.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nikhil06032004/El-pais-automation)
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-
-## `$ git log --stat`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nikhil06032004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil06032004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="165" />
+### ⬡ &nbsp; Selected Work &nbsp; ⬡
+
+</div>
+
+<br/>
+
+<!-- PROJECT CARD 1 -->
+<table>
+<tr>
+<td width="60px" align="center" valign="top"><br/>🔒</td>
+<td>
+
+**AI Cyber Threat Detection Platform**
+`TypeScript` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `XGBoost` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Docker`
+
+A full-stack SIEM-style platform that ingests Windows/Linux logs and network flows, runs a custom XGBoost classifier for real-time anomaly detection, and surfaces threats through a live React dashboard — fully self-hosted, zero third-party data exposure.
+
+> *Full-stack separation · Dockerized · REST API · Joblib model persistence · High-concurrency Uvicorn*
+
+[![→ View Repository](https://img.shields.io/badge/→_View_Repository-0d1117?style=flat-square&logo=github&logoColor=a78bfa&labelColor=0d1117&color=a78bfa)](https://github.com/Nikhil06032004/AI-Log-Analysis-for-Cyber-Attack-Detection)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT CARD 2 -->
+<table>
+<tr>
+<td width="60px" align="center" valign="top"><br/>🏥</td>
+<td>
+
+**Healthcare RAG Assistant**
+`Python` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `FAISS` &nbsp;·&nbsp; `Groq LLaMA 3.1` &nbsp;·&nbsp; `Streamlit`
+
+End-to-end RAG pipeline for medical Q&A — ingests healthcare PDFs into a FAISS vector store, performs semantic search, and generates structured source-cited answers via LLaMA 3.1 on Groq. Ships with both a Streamlit UI and a developer CLI.
+
+> *Document ingestion · Embedding pipelines · Semantic search · Hallucination mitigation · Dual interface*
+
+[![→ View Repository](https://img.shields.io/badge/→_View_Repository-0d1117?style=flat-square&logo=github&logoColor=a78bfa&labelColor=0d1117&color=a78bfa)](https://github.com/Nikhil06032004/Medical-Query-Chatbot)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT CARD 3 -->
+<table>
+<tr>
+<td width="60px" align="center" valign="top"><br/>📄</td>
+<td>
+
+**AI Resume Analyzer Dashboard**
+`React` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Vite` &nbsp;·&nbsp; `Tailwind` &nbsp;·&nbsp; `Puter.js`
+
+ATS scoring, keyword gap analysis, skill matching, cover letter generation, and interview prep — wrapped in a production-grade React dashboard. Practical AI product thinking meets advanced frontend engineering.
+
+[![→ View Repository](https://img.shields.io/badge/→_View_Repository-0d1117?style=flat-square&logo=github&logoColor=a78bfa&labelColor=0d1117&color=a78bfa)](https://github.com/Nikhil06032004/Resume-Analyzer-Dashboard)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT CARD 4 -->
+<table>
+<tr>
+<td width="60px" align="center" valign="top"><br/>🚚</td>
+<td>
+
+**Road Freight Tariff Rate Predictor**
+`Python` &nbsp;·&nbsp; `Regression ML` &nbsp;·&nbsp; `Flask` &nbsp;·&nbsp; `Jupyter`
+
+ML regression model for road freight rate prediction, deployed as a Flask REST API with a browser UI — bridging logistics domain expertise with applied machine learning.
+
+[![→ View Repository](https://img.shields.io/badge/→_View_Repository-0d1117?style=flat-square&logo=github&logoColor=a78bfa&labelColor=0d1117&color=a78bfa)](https://github.com/Nikhil06032004/Tariff_Rate_Prediction)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT CARD 5 -->
+<table>
+<tr>
+<td width="60px" align="center" valign="top"><br/>🌐</td>
+<td>
+
+**El País Cross-Browser Automation Framework**
+`Python` &nbsp;·&nbsp; `Selenium` &nbsp;·&nbsp; `BrowserStack`
+
+Modular Selenium framework that scrapes articles, auto-translates titles, downloads media, and runs parallel cross-browser tests on BrowserStack — CI-ready test engineering at scale.
+
+[![→ View Repository](https://img.shields.io/badge/→_View_Repository-0d1117?style=flat-square&logo=github&logoColor=a78bfa&labelColor=0d1117&color=a78bfa)](https://github.com/Nikhil06032004/El-pais-automation)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━  GITHUB STATS  ━━━━━━━━━━━━━━━━━━━━ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20&height=2&section=header" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+### ⬡ &nbsp; GitHub Metrics &nbsp; ⬡
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nikhil06032004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=8b949e&rank_icon=github&hide=contribs" height="160" />
+&ensp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil06032004&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b949e&langs_count=6" height="160" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil06032004&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=fb923c&currStreakLabel=a78bfa" height="150" />
+<img src="https://streak-stats.demolab.com?user=Nikhil06032004&theme=transparent&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=fb923c&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&background=0d1117" height="145"/>
 
 </div>
 
-<!-- Contribution Snake -->
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━  CONTRIBUTION GRAPH  ━━━━━━━━━━━━━━━━━━━━ -->
+
 <div align="center">
+
+### ⬡ &nbsp; Contribution Activity &nbsp; ⬡
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil06032004&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area=true&area_color=2e1065&hide_border=true" width="95%" />
+
+<br/>
+
+<!--
+  ╔─────────────────────────────────────────────────────────────────╗
+  │  SNAKE ANIMATION SETUP (one-time, ~2 min)                       │
+  │  1. Actions tab in this repo → New workflow → set up yourself   │
+  │  2. Paste workflow from: https://github.com/Platane/snk#readme  │
+  │  3. Once the Action runs, uncomment the block below:            │
+  ╚─────────────────────────────────────────────────────────────────╝
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhil06032004/Nikhil06032004/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhil06032004/Nikhil06032004/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Nikhil06032004/Nikhil06032004/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Nikhil06032004/Nikhil06032004/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Nikhil06032004/Nikhil06032004/output/github-contribution-grid-snake.svg"
+       alt="contribution snake" width="95%"/>
 </picture>
-</div>
 
-> 💡 **Note:** To activate the contribution snake, set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your profile repo.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════ STRENGTHS / HIGHLIGHTS ═══════════════════ -->
-
-## `$ cat ./achievements.log`
-
-```
-✦  End-to-end AI systems — from data pipelines to deployed APIs
-✦  RAG architecture: FAISS + LangChain + LLM prompt engineering
-✦  Full-stack ownership: React/TS frontend ↔ FastAPI/Flask backend
-✦  Applied ML: regression, classification, anomaly detection (XGBoost, Scikit-learn)
-✦  Cross-domain AI: healthcare, cybersecurity, logistics, developer tools
-✦  Modular, production-ready code with clear separation of concerns
-✦  Dockerized deployments and REST API design
-✦  Automation engineering: Selenium + BrowserStack parallel testing
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
-
-## `$ ps aux | grep "currently_building"`
-
-<div align="center">
-
-| Area | What I'm Exploring |
-|------|--------------------|
-| 🧠 **AI Agents** | Agentic workflows, tool-calling LLMs, multi-step reasoning |
-| 🔐 **AI × Security** | Deep learning for sequential log analysis (LSTMs, transformers) |
-| ⚡ **Performance** | WebSocket-based real-time AI pipelines |
-| 🌐 **Full-Stack AI** | End-to-end products with LLM backends + polished UIs |
+-->
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-<!-- ═══════════════════ CONTACT ═══════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━  STRENGTHS  ━━━━━━━━━━━━━━━━━━━━ -->
 
-## `$ ping nikhil`
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20&height=2&section=header" width="100%"/>
+
+<br/>
 
 <div align="center">
 
-I'm open to **internships**, **collaborations**, and **interesting AI/engineering problems**.
+### ⬡ &nbsp; What I Bring &nbsp; ⬡
+
+</div>
+
+<br/>
+
+```
+  ◈  End-to-end AI ownership — model training → REST API → production UI
+  ◈  RAG architecture  :  FAISS · LangChain · prompt engineering · source grounding
+  ◈  Full-stack breadth :  React/TS frontend  ↔  FastAPI/Flask backend
+  ◈  Applied ML         :  regression · classification · anomaly detection
+  ◈  Cross-domain depth :  healthcare · cybersecurity · logistics · dev tools
+  ◈  Infra fluency      :  Docker · REST design · Selenium · BrowserStack
+```
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━  CURRENT FOCUS  ━━━━━━━━━━━━━━━━━━━━ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20&height=2&section=header" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+### ⬡ &nbsp; Currently Building &nbsp; ⬡
+
+<br/>
+
+`🧠 AI Agents` &emsp; Tool-calling LLMs & multi-step reasoning pipelines
+
+`🔐 AI × Security` &emsp; Sequential log analysis with deep learning (LSTMs)
+
+`⚡ Real-time AI` &emsp; WebSocket-powered inference pipelines
+
+`🌐 Full-Stack AI` &emsp; Polished products with LLM backends
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━  CONTACT  ━━━━━━━━━━━━━━━━━━━━ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20&height=2&section=header" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+### ⬡ &nbsp; Let's Build Something &nbsp; ⬡
+
+<br/>
+
+Open to **internships**, **collaborations**, and **interesting AI/engineering problems**.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/nikhil-sharma-149211286">
-  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
-<a href="mailto:your@email.com"><!-- [EDIT] replace with your actual email -->
-  <img src="https://img.shields.io/badge/Drop_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+&ensp;
+<a href="mailto:your@email.com"><!-- [EDIT] your actual email here -->
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━  FOOTER  ━━━━━━━━━━━━━━━━━━━━ -->
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=130&section=footer" width="100%"/>
 
 <div align="center">
-  <sub>
-    Crafted with intention &nbsp;·&nbsp; <b>Nikhil Sharma</b> &nbsp;·&nbsp; 
-    <i>"The best time to build was yesterday. The second best time is now."</i>
-  </sub>
+  <sub><b>Nikhil Sharma</b> &nbsp;·&nbsp; <i>The best time to build was yesterday. The second best time is now.</i></sub>
 </div>
